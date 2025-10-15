@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For AES32
+#######################################
+
+#######################################
+# Library (KEYWORD3)
+#######################################
+
+AES32	KEYWORD3
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AES32	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+free	KEYWORD2
+setKey	KEYWORD2
+encryptECB	KEYWORD2
+decryptECB	KEYWORD2
+encryptCBC	KEYWORD2
+decryptCBC	KEYWORD2
+encryptCFB128	KEYWORD2
+decryptCFB128	KEYWORD2
+encryptCFB8	KEYWORD2
+decryptCFB8	KEYWORD2
+cryptCTR	KEYWORD2
